@@ -46,7 +46,7 @@ hubungkan proyek di komputermu ke halaman repository GitHub yang sudah kamu buat
 
 `git remote add origin https://github.com/username/nama-repo.git`
 
-adalah langkah terakhir untuk benar-benar mengupload (mengirim) semua file dan catatan komit dari komputermu ke repositori GitHub
+langkah terakhir untuk benar-benar mengupload (mengirim) semua file dan catatan komit dari komputermu ke repositori GitHub
 
 `git push -u origin main`
 
